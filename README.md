@@ -32,7 +32,7 @@ The project uses a grocery transaction dataset containing customer purchase reco
 
 Files used:
 
-- `groceries_transaction.csv`
+- `한글식료품트렌잭션.csv`
 - `association rules.csv`
 
 The transaction data was transformed into a format suitable for association rule mining before being processed in Orange.
@@ -165,7 +165,7 @@ grocery-recommendation-system/
 │
 ├── app.py
 ├── association rules.csv
-├── groceries_transaction.csv
+├── 한글식료품트렌잭션.csv
 ├── Grocery_Recommendation_System.ows
 ├── requirements.txt
 └── README.md
